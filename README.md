@@ -1,5 +1,5 @@
 ## Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning
-This codebase contains the python scripts for the model for the KDD 2023 paper link (will be updated).
+This codebase contains the python scripts for the model for the KDD 2023 paper link (will be updated)..
 
 ## Environment & Installation Steps
 Python 3.8 & Pytorch 1.12
